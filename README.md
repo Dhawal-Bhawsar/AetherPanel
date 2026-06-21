@@ -2,6 +2,9 @@
 
 A full-stack web application that automates the referral lifecycle for a consumer panel. The system tracks link sharing, attributes incoming sign-ups to the correct referrer, and exposes transparent status progress to panel members.
 
+## 🎥 Architecture Walkthrough Video
+Watch the system walkthrough and architecture explanation: **Google Drive Video Link- https://drive.google.com/file/d/1Y5y_QJW0dCdIk15STmwHESFPv17GkyAD/view?usp=sharing)**
+
 ## Quick Start (under 5 minutes)
 
 ### Prerequisites
